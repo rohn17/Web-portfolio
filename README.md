@@ -19,7 +19,7 @@ It includes:
 
 ## How to Run the Project:
 
-1. Download the folder.
+1. Download the folder
 2. Open index.html in any web browser (Chrome, Edge, Firefox).
 3. No installation required.
 
